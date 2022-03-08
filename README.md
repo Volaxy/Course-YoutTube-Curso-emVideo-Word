@@ -38,3 +38,17 @@ URL do curso -> [Curso de Word 2016 Essencial](https://www.youtube.com/playlist?
 * Aplicando **Tabulação** em partes do documento.
 * **Alinhando a tabulação** para o lado que se deseja.
 * Configurar a Tabulação.
+
+## 06 - Texto em Colunas
+* Transformar o texto em **2 colunas**.
+* Adicionar **HIfenização**.
+* Separar **seções** dentro do documento para aplicar propriedades dentro daquela seção.
+
+## 07 - Quebras de Texto
+* Inserir **quebras de página**.
+
+## 08 - Cabeçalho e Rodapé
+* Editar o **cabeçalho** e **rodapé** da página.
+* Criar **numeração** para uma página do word.
+
+--
